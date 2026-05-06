@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Claude / AI artifacts
+.claude/
+.kiro/
+*.claude.json
+AGENTS_USAGE.md
+
+# Temporary and editor files
+*.tmp
+*.bak
+*.swp
+*~
+.idea/
+
+# Private / internal documents (must never appear in this repo)
+# Add patterns here if needed as a safety net
+firmware.bin
+*.ino
+*.c
+*.cpp
+*.h
+*.py
+config/
+credentials/
