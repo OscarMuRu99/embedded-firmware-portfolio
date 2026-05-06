@@ -69,5 +69,5 @@ Most production work lives in private repos. What I publish here focuses on **sa
 ## Contact
 
 - GitHub: [OscarMuRu99](https://github.com/OscarMuRu99)
-- LinkedIn: [your-profile]
+- LinkedIn: [linkedin.com/in/oscarmunozr](https://www.linkedin.com/in/oscarmunozr)
 - Email: oscarmuru@outlook.com
